@@ -9,3 +9,4 @@
 ## Spawned TODOs
 
 - [ ] Create notes on location 'The Leaky Bilge'
+- [ ] NPC - maybe a younger apprentice (similar to Spook)
