@@ -2,6 +2,10 @@
 
 - [ ] Create a PC
 - [ ] Find DM Environment Playlist
-- [ ] Create an NPC (Tavern Keep?)
+- [x] Create an NPC (Tavern Keep?)
 - [ ] Find away to quickly access rules
 - [ ] Find Homebrew World worksheet
+
+## Spawned TODOs
+
+- [ ] Create notes on location 'The Leaky Bilge'
