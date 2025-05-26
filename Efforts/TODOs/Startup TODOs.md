@@ -10,3 +10,4 @@
 
 - [x] Create notes on location 'The Leaky Bilge'
 - [x] NPC - maybe a younger apprentice (similar to Spook)
+- [ ] Centralize Plot Threads
