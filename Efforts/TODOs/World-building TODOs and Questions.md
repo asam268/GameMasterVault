@@ -6,10 +6,10 @@
 > 📍 *Where is The Leaky Bilge? What kind of place surrounds it?*
 
 > [!TODO] You don’t need a full city yet, but sketching out:
-> * [ ] **Name of the town**
-> * [ ] **Basic geography** (e.g., cliffs, beaches, swamps, coral reefs?)
-> * [ ] **Main industries** (e.g., fishing, shipbuilding, trade, piracy?)
-> * [ ] **Factions** (guilds, churches, rival taverns, crime groups)
+> * [x] **Name of the town**
+> * [x] **Basic geography** (e.g., cliffs, beaches, swamps, coral reefs?)
+> * [x] **Main industries** (e.g., fishing, shipbuilding, trade, piracy?)
+> * [x] **Factions** (guilds, churches, rival taverns, crime groups)
 
 > [!Question]
 > **Do you imagine this port as more gritty and grounded (like a working-class harbor), or exotic and magical (like a coral-based elven port)?**
