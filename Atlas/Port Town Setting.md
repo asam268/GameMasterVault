@@ -1,8 +1,9 @@
-I would like to start with the Port Town Setting. I am having trouble coming up with a name for the town. Considering it is a port town, there are definitely going to be some docks and beaches. I think the town should be in some bay area. As for the main industries, fishing, trade, and piracy should be common there.
-
-I would like to explore a church being the main government entity in the town. I am not quite familiar with typical 5e religions and gods, but I would like the church to attempt to control piracy and crime within the area. Their attempts should mostly be unsuccessful, and the church should generally be unpopular except among the local nobility.
-
-I think there should be some sort of underground network, like a thieves guild. And maybe some other guild, but I'm not quite sure yet. Can you help me flesh this out?
+> [!Quote]
+> I would like to start with the Port Town Setting. I am having trouble coming up with a name for the town. Considering it is a port town, there are definitely going to be some docks and beaches. I think the town should be in some bay area. As for the main industries, fishing, trade, and piracy should be common there.
+> 
+> I would like to explore a church being the main government entity in the town. I am not quite familiar with typical 5e religions and gods, but I would like the church to attempt to control piracy and crime within the area. Their attempts should mostly be unsuccessful, and the church should generally be unpopular except among the local nobility.
+> 
+> I think there should be some sort of underground network, like a thieves guild. And maybe some other guild, but I'm not quite sure yet. Can you help me flesh this out?
 
 ---
 
@@ -116,114 +117,95 @@ Here are some guild types you might add to balance the scene:
 
 > [!Done] The Star's Lantern seems like a really good fit
 
+---
+
+> [!quote]
+> For the town name, I am going to go with Brinechapel. 
+> 
+> For the church, I like the problems with seeing the church as corrupt and out-of-touch, but I would to see the church as more lawful. Is there another type of church that would exert control over the town unsuccessfully? I would like to see the values of the church conflict with the town.
+> 
+> The layout and geography sounds great for Brinechapel, but the name of the cathedral may change pending choosing a different deity. 
+> 
+> The Maw sounds great as a thieves guild. I will ask to flesh this out later
+> 
+> I would also love to implement The Star's Lantern later. Having some sort of magical presence in the town seems like a must. I will ask about this later.
+> 
+> For now, let's address the church.
 
 ---
 
-Once you pick a name, god (or not), and decide on a second guild, we can map this out with:
+## ⚔️ **The Church of Helm in Brinechapel**
 
-* A city district guide
-* Local rumors
-* Adventure seeds (tied to each faction)
-* A simple town map if you want visuals
+> **"Duty Above All."**
 
-Where would you like to go next? Pick any thread, and I’ll help you flesh it out!
+### **Deity:** Helm, The Watcher
 
----
+* **Alignment:** Lawful Neutral
+* **Domains:** Life, Light, Order
+* **Symbol:** A staring eye on a gauntlet
+* **Tenets:** Vigilance, duty, protection, unflinching order
 
-For the town name, I am going to go with Brinechapel. 
-
-For the church, I like the problems with seeing the church as corrupt and out-of-touch, but I would to see the church as more lawful. Is there another type of church that would exert control over the town unsuccessfully? I would like to see the values of the church conflict with the town.
-
-The layout and geography sounds great for Brinechapel, but the name of the cathedral may change pending choosing a different deity. 
-
-The Maw sounds great as a thieves guild. I will ask to flesh this out later
-
-I would also love to implement The Star's Lantern later. Having some sort of magical presence in the town seems like a must. I will ask about this later.
-
-For now, let's address the church.
+Helm's faithful believe in standing watch over civilization and guarding the innocent—whether the innocent want their help or not. In a town like **Brinechapel**, their strict adherence to law and order makes them seem oppressive, self-righteous, and disconnected from the gritty reality of port life.
 
 ---
 
-Excellent choices all around. With **Brinechapel** set as the name and **The Maw** and **The Star’s Lantern** held in reserve, let's dive into fleshing out the **church government** with a focus on **lawfulness, rigid values, and tension with the town’s character**.
+## 🏛️ **Saltstone Cathedral**
+
+* Still named after the glowing pale stone it's built from, **Saltstone Cathedral** towers above Brinechapel from the cliffs.
+* Its **great bell** rings daily to remind citizens of their “duty to order.”
+* Helm's **symbol—a golden gauntlet with an unblinking eye—is etched into gates, guard uniforms, and trade permits** throughout the town.
+* Known as “The Watcher's Keep” among clergy.
 
 ---
 
-## ⚖️ **Brinechapel's Governing Church**
+## 🧱 **Church Structure in Town**
 
-### **Church Name:** *The Sanctum of Saint Veila*
-
-> “Order is a seawall against chaos.”
-
-This church is **lawful neutral**, seeking to impose structure, purity, and order on what it views as a town teetering on moral collapse. It’s not evil—it believes it is a force of civilization and salvation—but its approach is **rigid, doctrinal, and unyielding**, making it deeply unpopular with common folk, especially seafarers and pirates.
+* The church runs **The Watchguard**—a civic law-enforcement arm. Not a military, but armed, uniformed, and feared.
+* Clergy also control permits for legal trade, building repairs, and magical activities.
+* The **nobility supports the church** to maintain order and keep wealth safe, even if they don’t like them personally.
 
 ---
 
-## 🧱 **Core Tenets of the Sanctum**
+## 📉 **Why the Church Fails to Control Brinechapel**
 
-* **Law is divine order** — without it, the sea (and society) swallows all.
-* **Purity through discipline** — indulgence (alcohol, gambling, piracy) is spiritual decay.
-* **The land must tame the sea** — metaphorically and literally.
-* **Magic is acceptable, but only if regulated** — they often clash with The Star’s Lantern.
-
----
-
-## 🛐 **Deity: Saint Veila, The Binder of Storms**
-
-* Former mortal, now ascended saint or minor goddess.
-* Said to have once calmed a storm by binding it in prayer and chain.
-* Depicted as a robed figure holding an iron ring and a chain of light.
-* **Domains:** Order, Knowledge, Light
-
-> ⚠️ The locals don’t worship her, but nobles fund her temples to look virtuous.
+* The town’s culture is **too independent, criminal, and sea-hardened** for Helm’s strict laws to gain respect.
+* The church is seen as **meddling landlubbers** by sailors, pirates, and common folk.
+* Helm’s doctrine forbids compromise, so the church **refuses to negotiate** with The Maw or other guilds—making enforcement difficult.
+* The Watchguard is **understaffed, underpaid, and frequently bribed or sabotaged**.
 
 ---
 
-## 🏛️ **Saltstone Cathedral (Headquarters)**
+## 🧑‍⚖️ **Key NPCs**
 
-* Built from quarried pale rock that glows slightly under moonlight.
-* Situated high above the docks, with imposing architecture meant to “look down on vice.”
-* Its bells toll at dawn and dusk, always heard, rarely listened to.
+### **Justicar Ardyn Ves**
 
----
+* **Middle-aged human, female**, silver gauntlet armor, blunt and firm.
+* Enforces Helm’s doctrine with zeal, but privately worries about the church’s growing irrelevance.
+* Wants to **clean Brinechapel the “right” way**, without violence—but **may resort to it** if pushed.
 
-## 🧑‍⚖️ **Key Figures**
+### **Scribe-Marshal Dolric Tann**
 
-### **High Ordainer Malrik Thew**
-
-* Stoic, bald, with a permanent frown and polished silver chain draped across his robes.
-* Believes Brinechapel is a “rotting vessel of sin” that must be sealed and repaired.
-* Secretly drinks cheap grog in private—sees it as penance, not hypocrisy.
-
-### **Sister Halwen**
-
-* Young, devout, but doubts the church’s effectiveness.
-* Sometimes helps townsfolk quietly, earning suspicion from superiors.
-* Could be a valuable ally to players.
+* **Older dwarf**, keeps all records of licenses and patrols.
+* Corrupt but subtle—sells info to The Maw and uses legal jargon to stall enforcement.
+* Believes Helm’s ideals are noble, but impractical in Brinechapel.
 
 ---
 
-## 🔥 **Conflicts With Brinechapel**
+## 🔥 **Tension Hooks**
 
-* Most pirates and traders consider the Sanctum self-righteous tyrants.
-* The church tries to **regulate trade**, pushing high taxes and banning “immoral goods” (liquor, dice, love potions, etc.).
-* They regularly try (and fail) to **arrest The Maw**'s agents.
-* Public sermons are **ignored or mocked**—though noble families show up out of obligation.
-
----
-
-## 🧩 **Possible Plot Threads**
-
-* The church is attempting to **outlaw The Leaky Bilge** for promoting vice.
-* Sister Halwen asks players for help with a mission that violates church doctrine.
-* The Sanctum has uncovered **a magical artifact tied to Saint Veila**, but unlocking it would require working with forbidden elements (The Star’s Lantern? The Maw?).
+* **The Leaky Bilge** doesn’t have a liquor license from the church… yet no one dares shut it down. The Watchguard might try.
+* A **shipment of dangerous magical goods** slipped through the port without church approval—players may be tasked with retrieving it, or helping smuggle it.
+* A noble is funding a **Holy Festival of Helm** to restore order, but it’s likely to become a **powder keg of rebellion**.
 
 ---
 
-### ➡️ Would you like the church to be hiding any darker secrets (e.g., corruption, hypocrisy, forbidden magic), or remain purely rigid and misguided?
+Would you like help:
 
-### ➡️ Should the church have a small militant arm (e.g., Inquisitors, Justiciars), or rely more on law enforcement through political and economic means?
+* Designing **quests** that involve the church?
+* Creating **specific Watchguard patrol encounters**?
+* Or fleshing out **how Helm’s teachings twist or adapt in Brinechapel**?
 
-Let me know how you'd like to shape their *threat level* or presence, and we can develop their influence, hierarchy, and potential player interactions further.
+Also, should we expand **how the church and The Maw interact**, or circle back to that later?
 
 
 
